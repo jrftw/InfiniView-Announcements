@@ -1,10 +1,19 @@
 [
   {
+    "id": 7,
+    "title": "InfiniView available on android beta!",
+    "date": "December 20th 2024",
+    "time": "8:46AM EST",
+    "description": "Download it now to test!",
+    "image": null,
+    "link": "https://play.google.com/apps/internaltest/4701106255621735255"
+  },
+  {
     "id": 6,
-    "title": "InfiniView Full release is out now!",
+    "title": "InfiniView Full release is out now on iOS!",
     "date": "December 20th 2024",
     "time": "7:56AM EST",
-    "description": "Download it now no new beta's will be made publicly available!",
+    "description": "Download the full release now no new beta's will be made publicly available for iOS!",
     "image": null,
     "link": "https://apps.apple.com/us/app/infiniview/id6739147518"
   },
