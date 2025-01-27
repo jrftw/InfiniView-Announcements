@@ -1,4 +1,13 @@
 [
+    {
+  "id": 42,
+  "title": "InfiniView iOS – New Release",
+  "date": "January 27, 2025",
+  "time": "1:18 AM EST",
+  "description": "• Fixed leaderboard syncing\n• Added leaderboard to App Store listing\n• Introduced global messaging\n• Implemented private messaging\n• New profile creation and editing in Settings",
+  "image": null,
+  "link": null
+  },
   {
     "id": 41,
     "title": "TikTok LIVE: Scaled LIVE Rewards",
