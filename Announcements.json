@@ -1,5 +1,4 @@
 [
-  [
   {
     "id": 118,
     "title": "⚠️ TikTok Platform Issues — Ongoing System Disruptions",
@@ -17,10 +16,9 @@
     "description": "📢 **DIAMOND INCENTIVE PROGRAM (D.I.P) — MARCH 2026 UPDATE**\n\n@everyone\n\nCreators,\n\nDue to **internal structural changes and adjustments currently taking place within TikTok**, the **Diamond Incentive Program (D.I.P)** will **not be active for the month of March 2026**.\n\nThis decision is based on updates occurring on TikTok’s side that affect how certain performance incentives are structured and tracked.\n\n---\n\n## 📅 WHAT THIS MEANS\n\n- The **D.I.P program will be paused for March 2026**.\n- No D.I.P incentives will be calculated or issued for March performance.\n- The program is **not being removed** — it is being **revised and updated**.\n\n---\n\n## 🔧 PROGRAM REVISION\n\nWe are currently working to revise the D.I.P structure so it aligns with the latest platform changes and continues to remain fair, transparent, and performance-based.\n\nThe revised program is expected to **return in April 2026** with updated structure and details.\n\nOnce finalized, the full updated program guidelines will be announced to the network.\n\n---\n\nWe appreciate your patience while these adjustments are made. Our goal is to ensure the program remains sustainable, transparent, and aligned with the evolving TikTok platform.\n\nFurther details will be shared before the revised program returns in April.\n\nThank you for your continued effort and professionalism.",
     "image": null,
     "link": []
-  }
-],
+  },
   {
-  "id": 116,
+    "id": 116,
   "title": "🚨 LIVE Compliance Reminder — Zero Tolerance Policy",
   "date": "2026-02-16",
   "time": "7:30 PM EST",
@@ -413,7 +411,7 @@
     "time": "4:10 PM EST",
     "description": "🎮🔥 **Infinitum LIVE Creator Network Tournament - Round 1 Begins!** 🎮🔥\n\nHey Creators! 🎮🔥\n\nWe're excited to announce our Infinitum LIVE Creator Network Tournament, kicking off with Round 1! 🏆🔥\n\nGet ready to battle it out, showcase your LIVE skills, and earn some awesome rewards! 🎁💎\n\nPublic Round sheet: [Round 1 Bracket](https://docs.google.com/spreadsheets/d/1dDk9b7jDZNX-GJv6oiqSsGpudNKLMUe5yaM38p-z8VM/edit?usp=sharing)\n\n🏅⚔️⚡️ Stay tuned for more updates as we move through the rounds. Let's make this an epic tournament, and may the best creators win! 💪✨\n\nGood luck to all participants! 🙌🎉\n\nLink to announcement: [Discord Announcement](https://discord.com/channels/1083592718321721455/1375564856303816714/1375564990823534624)",
     "image": null,
-    "link": "https://discord.com/channels/1083592718321721455/1375564856303816714/1375564990823534624"
+    "link": ["https://discord.com/channels/1083592718321721455/1375564856303816714/1375564990823534624"]
   },
   {
     "id": 77,
