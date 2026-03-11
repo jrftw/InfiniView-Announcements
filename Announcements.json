@@ -1,5 +1,23 @@
 [
   {
+  "id": 120,
+  "title": "🔧 iView Restoration Update — Significant Progress Made",
+  "date": "2026-03-11",
+  "time": "10:20 AM EST",
+  "description": "🔧 **IVIEW SYSTEM RESTORATION UPDATE** 🔧\n\n@everyone\n\nCreators and Managers,\n\nWe wanted to provide an update regarding the **iView data system outage** that has been affecting creator statistics, new iView accounts, and Infinitum Creator onboarding.\n\n---\n\n## 📈 PROGRESS UPDATE\n\nOur engineering team has made **significant progress repairing the data gathering system**, and we are now entering the final stages of restoration.\n\nBecause the disruption was caused by **recent changes on TikTok's backend systems**, several adjustments were required to restore compatibility with the platform's data infrastructure.\n\nThese updates are currently being finalized and tested to ensure stability before full deployment.\n\n---\n\n## ⏱ WHAT TO EXPECT\n\nOnce restoration is completed:\n\n- **Creator statistics will begin updating again**\n- **iView account creation will resume**\n- **Infinitum Creator onboarding will function normally**\n\nSome statistics may update gradually as the system processes queued data.\n\n---\n\n## 🙏 THANK YOU FOR YOUR PATIENCE\n\nWe sincerely apologize for the delays and appreciate everyone's patience while we worked through the platform changes.\n\nOur goal is always to ensure the systems remain **stable, accurate, and reliable for creators and managers**.\n\nAnother update will be posted once **iView is fully back online.**",
+  "image": null,
+  "link": []
+},
+  {
+  "id": 119,
+  "title": "⚠️ iView Data System Outage — Stats & Onboarding Temporarily Unavailable",
+  "date": "2026-03-05",
+  "time": "8:00 AM EST",
+  "description": "⚠️ **IVIEW DATA SYSTEM NOTICE** ⚠️\n\n@everyone\n\nCreators and Managers,\n\nOur **iView data gathering system is currently experiencing a service interruption**.\n\nBecause of this issue, several internal systems that rely on TikTok data collection are **temporarily unavailable**.\n\n---\n\n## ⚠️ WHAT IS CURRENTLY AFFECTED\n\nUntil this is repaired, the following services will **not function normally**:\n\n- New **iView account registrations** will not work\n- **Infinitum Creator Onboarding** will not process new accounts\n- **Creator statistics and analytics** will not update\n- Some creator profile data may appear **stale or unchanged**\n\nExisting accounts remain safe, but **data updates are paused** until the system is restored.\n\n---\n\n## 🔧 CAUSE OF THE ISSUE\n\nTikTok has recently made several **backend platform changes** that are affecting how data is gathered and processed.\n\nThese changes are currently causing disruptions to multiple internal tools that rely on that data.\n\nOur team is actively working to **adapt and repair the system so normal functionality can resume**.\n\n---\n\n## ⏱ EXPECTED BEHAVIOR DURING THIS TIME\n\nWhile this is being resolved:\n\n- Creator stats may not refresh\n- Dashboard analytics may appear frozen\n- New onboarding attempts may fail\n\nThis does **not impact your creator accounts on TikTok**, only the internal systems that gather and display data.\n\n---\n\n## 🛠 STATUS\n\nOur engineering team is actively working on restoring full access.\n\nBecause this involves adapting to **recent TikTok backend changes**, the repair requires updates to how our systems interact with the platform.\n\nWe apologize for the inconvenience and appreciate your patience while we restore normal operations.\n\nUpdates will be posted as soon as service is fully restored.",
+  "image": null,
+  "link": []
+},
+  {
     "id": 118,
     "title": "⚠️ TikTok Platform Issues — Ongoing System Disruptions",
     "date": "2026-03-04",
