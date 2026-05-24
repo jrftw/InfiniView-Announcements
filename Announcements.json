@@ -1,5 +1,35 @@
 [
  {
+  "id": 126,
+  "title": "🎓 Infinitum LIVE Creator Academy Launch",
+  "date": "2026-05-24",
+  "time": "1:00 AM EST",
+  "description": "The Creator Onboarding Tool has been fully revamped and officially renamed to \"Infinitum LIVE Creator Academy.\" The updated platform now provides a more structured onboarding, education, compliance, and creator growth experience for Infinitum creators across web, iOS, and Android.\n\nAccess the Academy here:\nhttps://infinitum-onboarding.web.app/",
+  "image": null,
+  "link": [
+    "https://infinitum-onboarding.web.app/"
+  ],
+ {
+  "id": 125,
+  "title": "🛠️ Creator Discord Fully Revamped",
+  "date": "2026-05-20",
+  "time": "3:12 PM EST",
+  "description": "The entire Infinitum LIVE Creator Discord has been fully reorganized and revamped to make navigation easier, cleaner, and less overwhelming for creators. Channels, categories, resources, onboarding sections, and support systems were restructured to improve usability and reduce information overload while making important tools and updates easier to access.",
+  "image": null,
+  "link": []
+},
+ {
+  "id": 124,
+  "title": "🌟 Weekly Creator Showcases Added",
+  "date": "2026-05-08",
+  "time": "5:12 PM EST",
+  "description": "We have now added Weekly Creator Showcases inside the official Infinitum Discord. Every week, 3 creators are automatically selected and featured across our Discord community and website to help recognize creator consistency, growth, and community presence. This system is designed to better highlight creators within the network and give additional visibility to creators actively building on TikTok LIVE.\n\nDiscord Showcase Channel:\nhttps://discord.com/channels/1083592718321721455/1502415894729592854",
+  "image": null,
+  "link": [
+    "https://discord.com/channels/1083592718321721455/1502415894729592854"
+  ]
+},
+ {
   "id": 123,
   "title": "🚨 INFINTUM LIVE NETWORK MEETING (ALL CREATORS) — April 9 @ 6PM EST",
   "date": "2026-04-09",
